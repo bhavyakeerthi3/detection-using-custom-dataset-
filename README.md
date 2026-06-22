@@ -255,5 +255,3 @@ The project generates:
 ---
 
 
-- Natural Language Processing
-- Generative AI
